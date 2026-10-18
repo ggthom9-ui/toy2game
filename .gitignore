@@ -25,3 +25,17 @@ artifacts/
 /待转换玩具/
 /games/rabbit-trap/reference.png
 /docs/ip-review-*.md
+
+screenshots/
+
+*.pid
+
+.agents/
+
+.agentsweb/
+
+.omgithub-runtime/
+
+.opencode-ssh/
+
+.opencode-web/
